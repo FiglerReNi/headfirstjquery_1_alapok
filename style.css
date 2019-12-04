@@ -4,7 +4,34 @@
     left: 400px;
     font: 24px arial;
 }
-
 #move_up #move_down #color #disappear{
     padding:5px;
+}
+
+/*a:link img, a:visited img{*/
+/*    display:none;*/
+/*}*/
+/*a:hover img, a:active img{*/
+/*    display:block;*/
+/*}*/
+/*a{*/
+/*    text-decoration: none;*/
+/*    color: #000;*/
+/*}*/
+
+#clickMe{
+    background-color: #D8B36E;
+    padding: 20px;
+    text-align: center;
+    width: 205px;
+    display: block;
+    border: 2px solid #000;
+}
+#picframe{
+    background-color: #D8B36E;
+    padding: 20px;
+    text-align: center;
+    width: 205px;
+    display: none;
+    border: 2px solid #000;
 }
