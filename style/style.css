@@ -35,3 +35,33 @@
     display: none;
     border: 2px solid #000;
 }
+
+div {
+    float:left;
+    text-align: left;
+    border: solid #000 3px;
+}
+
+#header{
+    height: 80px;
+    width: 100%;
+    border: 0;
+}
+
+#main{
+    background-color: grey;
+    height: 500px;
+    width: 100%;
+}
+
+.guessBox{
+    height: 300px;
+    width: 22%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+img{
+    height: 300px;
+    width: 100%;
+}
